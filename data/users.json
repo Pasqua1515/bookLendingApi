@@ -2,16 +2,11 @@
     {
         "id": "102",
         "name": "Pasqua",
-        "booksRented": [
-            {
-                "id": "1",
-                "title": "Groceries"
-            }
-        ]
+        "booksRented": []
     },
     {
         "id": "3t84hthgorhogiheoriuhgoeurhgeroiugerlhnfg",
-        "name": "Bbay",
+        "name": "Genesys",
         "booksRented": []
     }
 ]
